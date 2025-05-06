@@ -16,6 +16,7 @@ git init
 ```
 <img src="images/picture-3.png" alt="Repository Creation" width="800">
 Then Pull the created Repository into your Local machine by typing this command:
+
 ```sh
 git pull https://github.com/syedsofiyan2004/Medium_Assignment_1
 ```
