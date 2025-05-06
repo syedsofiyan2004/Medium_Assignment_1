@@ -79,9 +79,11 @@ As we can see we have merge pull request after pressing it our branch is merged 
 We have successfully resolve the Merge Conflict and we have our repositories correctly.
 <img src="images/picture-17.png" alt="Repository Creation" width="800">
 
+## Graph of the Assignment 3:
+<img src="images/picture-19.png" alt="Repository Creation" width="800">
 
 
-### **Our Website Image:
+### Our Website Image:
 <img src="images/picture-18.png" alt="Repository Creation" width="800">
 
 ## Assigment 3 Completed! 
